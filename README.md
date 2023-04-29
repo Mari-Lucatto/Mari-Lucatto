@@ -1,8 +1,8 @@
 ### ☆ Seja bem-vindo(a)!
 
 - 🔭 ensino médio | desenvolvimento de sistemas
-- 🌱 Estou aprendendo... Python!
-- 😄 Pronomes: ela/dela-a
+- 🌱 estou aprendendo programação... na base do ódio!
+- 😄 pronomes: ela/dela-a
 - ⚡ <i> Tudo o que está morto como fato, continua vivo como ensino. </i>
 
 
